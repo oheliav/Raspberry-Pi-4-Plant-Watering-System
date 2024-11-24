@@ -42,9 +42,9 @@ This project automates plant watering using a **Raspberry Pi 4**, soil moisture 
    pip install flask RPi.GPIO
 
 3. Connect the Hardware:
-  - Connect the soil moisture sensor to the Raspberry Pi GPIO pins.
-  - Wire the relay to control the water pump.
-  - Set up the water pump with the tubing.
+     - Connect the soil moisture sensor to the Raspberry Pi GPIO pins.
+     - Wire the relay to control the water pump.
+     - Set up the water pump with the tubing.
 
 4. Run the Application:
    python src/main.py
@@ -53,7 +53,7 @@ This project automates plant watering using a **Raspberry Pi 4**, soil moisture 
   Open your browser and go to http://<raspi-ip>:5000
 
 ## 📂 Project Structure
----
+
 raspi-plant-watering/
 │
 ├── src/
