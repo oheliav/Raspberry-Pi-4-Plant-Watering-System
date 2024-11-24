@@ -52,7 +52,8 @@ This project automates plant watering using a **Raspberry Pi 4**, soil moisture 
 5. Access the Dashboard:
   Open your browser and go to http://<raspi-ip>:5000
 
-📂 Project Structure
+## 📂 Project Structure
+---
 raspi-plant-watering/
 │
 ├── src/
@@ -70,16 +71,16 @@ raspi-plant-watering/
 │
 └── README.md              # Project documentation
 
-🖼️ Preview
+## 🖼️ Preview
 
-🔮 Future Improvements
+## 🔮 Future Improvements
   - Add temperature and humidity monitoring.
   - Implement scheduled watering.
   - Build a mobile app interface.
   - Include AI-based recommendations for plant care.
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repository and contribute! Submit a pull request with your improvements.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
