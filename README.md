@@ -54,6 +54,7 @@ This project automates plant watering using a **Raspberry Pi 4**, soil moisture 
 
 ## 📂 Project Structure
 
+```plaintext
 raspi-plant-watering/
 │
 ├── src/
@@ -70,6 +71,7 @@ raspi-plant-watering/
 │   └── watering.log       # Logs moisture levels and watering events
 │
 └── README.md              # Project documentation
+
 
 ## 🖼️ Preview
 
