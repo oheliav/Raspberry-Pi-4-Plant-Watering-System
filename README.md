@@ -71,7 +71,7 @@ raspi-plant-watering/
 │   └── watering.log       # Logs moisture levels and watering events
 │
 └── README.md              # Project documentation
-
+```
 
 ## 🖼️ Preview
 
